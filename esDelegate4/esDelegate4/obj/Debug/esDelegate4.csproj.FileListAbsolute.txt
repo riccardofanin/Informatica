@@ -1,0 +1,10 @@
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\bin\Debug\esDelegate4.exe.config
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\bin\Debug\esDelegate4.exe
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\bin\Debug\esDelegate4.pdb
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.csproj.AssemblyReference.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.Form1.resources
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.Properties.Resources.resources
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.csproj.GenerateResource.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.csproj.CoreCompileInputs.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.exe
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate4\esDelegate4\obj\Debug\esDelegate4.pdb

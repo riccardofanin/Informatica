@@ -1,0 +1,16 @@
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\esDelegate3.exe
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\esDelegate3.deps.json
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\esDelegate3.runtimeconfig.json
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\esDelegate3.runtimeconfig.dev.json
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\esDelegate3.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\ref\esDelegate3.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\bin\Debug\net5.0\esDelegate3.pdb
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.csproj.AssemblyReference.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.AssemblyInfoInputs.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.AssemblyInfo.cs
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.csproj.CoreCompileInputs.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\ref\esDelegate3.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.pdb
+C:\Users\6189986\Desktop\Repositories\esDelegate\esDelegate3\esDelegate3\obj\Debug\net5.0\esDelegate3.genruntimeconfig.cache
