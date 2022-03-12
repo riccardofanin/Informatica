@@ -1,0 +1,16 @@
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\esDelegate1.exe
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\esDelegate1.deps.json
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\esDelegate1.runtimeconfig.json
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\esDelegate1.runtimeconfig.dev.json
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\esDelegate1.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\ref\esDelegate1.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\bin\Debug\net5.0\esDelegate1.pdb
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.csproj.AssemblyReference.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.AssemblyInfoInputs.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.AssemblyInfo.cs
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.csproj.CoreCompileInputs.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\ref\esDelegate1.dll
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.pdb
+C:\Users\6189986\Desktop\Repositories\esDelegate1\esDelegate1\obj\Debug\net5.0\esDelegate1.genruntimeconfig.cache
