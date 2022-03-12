@@ -1,0 +1,10 @@
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\bin\Debug\esEvent1.exe.config
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\bin\Debug\esEvent1.exe
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\bin\Debug\esEvent1.pdb
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.csproj.AssemblyReference.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.Form1.resources
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.Properties.Resources.resources
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.csproj.GenerateResource.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.csproj.CoreCompileInputs.cache
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.exe
+C:\Users\6189986\Desktop\Repositories\esDelegate\esEvent1\esEvent1\obj\Debug\esEvent1.pdb
